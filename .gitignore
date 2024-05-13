@@ -1,0 +1,10 @@
+# Ignore pycache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Experiments
+*_experimental*
+static/*-*.html
